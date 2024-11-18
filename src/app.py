@@ -56,4 +56,4 @@ def download_pdf(paper_id):  # Renamed from download_pdf_route to download_pdf
     return send_from_directory(directory, filename, as_attachment=True)
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run( host="0.0.0.0", port=3000, debug=True )
