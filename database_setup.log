@@ -1,0 +1,708 @@
+2024-11-15 13:13:31,910:INFO:Created directory: /Users/swayansubaral/PycharmProjects/WebCrawler/data
+2024-11-15 13:13:31,951:INFO:Database setup complete.
+2024-11-15 13:13:31,952:INFO:Session created successfully.
+2024-11-15 13:15:29,560:INFO:Created directory: /Users/swayansubaral/PycharmProjects/WebCrawler/data
+2024-11-15 13:15:29,602:INFO:Database setup complete.
+2024-11-15 13:15:29,603:INFO:Session created successfully.
+2024-11-15 15:03:05,410:INFO:Created directory: /Users/swayansubaral/PycharmProjects/WebCrawler/data
+2024-11-15 15:03:05,453:INFO:Database setup complete.
+2024-11-15 15:03:05,453:INFO:Session created successfully.
+2024-11-15 15:03:10,248:INFO:Database setup complete.
+2024-11-15 15:03:10,248:INFO:Session created successfully.
+2024-11-15 15:47:17,697:INFO:Created directory: /Users/swayansubaral/PycharmProjects/WebCrawler/data
+2024-11-15 15:47:17,908:INFO:Database setup complete.
+2024-11-15 15:47:17,908:INFO:Session created successfully.
+2024-11-15 15:48:45,149:INFO:Database setup complete.
+2024-11-15 15:48:45,150:INFO:Session created successfully.
+2024-11-15 15:48:48,199:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-15 15:48:48,200:INFO:[33mPress CTRL+C to quit[0m
+2024-11-15 15:48:48,204:INFO: * Restarting with stat
+2024-11-15 15:48:48,924:INFO:Database setup complete.
+2024-11-15 15:48:48,925:INFO:Session created successfully.
+2024-11-15 15:48:48,985:WARNING: * Debugger is active!
+2024-11-15 15:48:49,013:INFO: * Debugger PIN: 202-840-093
+2024-11-15 15:50:52,605:INFO:127.0.0.1 - - [15/Nov/2024 15:50:52] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-11-15 15:50:52,800:INFO:127.0.0.1 - - [15/Nov/2024 15:50:52] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2024-11-15 15:50:52,801:INFO:127.0.0.1 - - [15/Nov/2024 15:50:52] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2024-11-15 15:50:52,924:INFO:127.0.0.1 - - [15/Nov/2024 15:50:52] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=yRpGu08avhpQsSJrQEcL HTTP/1.1" 200 -
+2024-11-15 15:50:53,070:INFO:127.0.0.1 - - [15/Nov/2024 15:50:53] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2024-11-15 15:55:07,761:INFO:Database setup complete.
+2024-11-15 15:55:07,762:INFO:Session created successfully.
+2024-11-15 15:55:07,883:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-15 15:55:07,883:INFO:[33mPress CTRL+C to quit[0m
+2024-11-15 15:55:07,885:INFO: * Restarting with stat
+2024-11-15 15:55:08,383:INFO:Database setup complete.
+2024-11-15 15:55:08,383:INFO:Session created successfully.
+2024-11-15 15:55:08,442:WARNING: * Debugger is active!
+2024-11-15 15:55:08,462:INFO: * Debugger PIN: 202-840-093
+2024-11-15 15:55:34,211:INFO:127.0.0.1 - - [15/Nov/2024 15:55:34] "GET / HTTP/1.1" 200 -
+2024-11-15 15:55:34,318:INFO:127.0.0.1 - - [15/Nov/2024 15:55:34] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-11-15 15:56:17,980:INFO:127.0.0.1 - - [15/Nov/2024 15:56:17] "GET / HTTP/1.1" 200 -
+2024-11-15 16:04:44,835:INFO:Database setup complete.
+2024-11-15 16:04:44,835:INFO:Session created successfully.
+2024-11-15 16:04:45,394:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-15 16:04:45,394:INFO:[33mPress CTRL+C to quit[0m
+2024-11-15 16:04:45,396:INFO: * Restarting with stat
+2024-11-15 16:04:45,892:INFO:Database setup complete.
+2024-11-15 16:04:45,893:INFO:Session created successfully.
+2024-11-15 16:04:46,046:WARNING: * Debugger is active!
+2024-11-15 16:04:46,067:INFO: * Debugger PIN: 202-840-093
+2024-11-15 16:05:06,378:INFO:127.0.0.1 - - [15/Nov/2024 16:05:06] "GET / HTTP/1.1" 200 -
+2024-11-15 16:05:25,885:ERROR:Error fetching papers from Semantic Scholar: 400
+2024-11-15 16:05:25,889:INFO:Papers stored and PDFs downloaded successfully.
+2024-11-15 16:05:25,892:INFO:Papers categorized successfully.
+2024-11-15 16:05:25,896:INFO:127.0.0.1 - - [15/Nov/2024 16:05:25] "[32mPOST / HTTP/1.1[0m" 302 -
+2024-11-15 16:05:25,907:INFO:127.0.0.1 - - [15/Nov/2024 16:05:25] "GET / HTTP/1.1" 200 -
+2024-11-15 16:05:49,230:ERROR:Error fetching papers from Semantic Scholar: 400
+2024-11-15 16:05:49,234:INFO:Papers stored and PDFs downloaded successfully.
+2024-11-15 16:05:49,237:INFO:Papers categorized successfully.
+2024-11-15 16:05:49,240:INFO:127.0.0.1 - - [15/Nov/2024 16:05:49] "[32mPOST / HTTP/1.1[0m" 302 -
+2024-11-15 16:05:49,246:INFO:127.0.0.1 - - [15/Nov/2024 16:05:49] "GET / HTTP/1.1" 200 -
+2024-11-15 16:06:04,284:ERROR:Error fetching papers from Semantic Scholar: 400
+2024-11-15 16:06:04,288:INFO:Papers stored and PDFs downloaded successfully.
+2024-11-15 16:06:04,291:INFO:Papers categorized successfully.
+2024-11-15 16:06:04,293:INFO:127.0.0.1 - - [15/Nov/2024 16:06:04] "[32mPOST / HTTP/1.1[0m" 302 -
+2024-11-15 16:06:04,300:INFO:127.0.0.1 - - [15/Nov/2024 16:06:04] "GET / HTTP/1.1" 200 -
+2024-11-15 16:04:46,067:INFO: * Debugger PIN: 202-840-093
+2024-11-15 16:05:06,378:INFO:127.0.0.1 - - [15/Nov/2024 16:05:06] "GET / HTTP/1.1" 200 -
+2024-11-15 16:05:25,885:ERROR:Error fetching papers from Semantic Scholar: 400
+2024-11-15 16:05:25,889:INFO:Papers stored and PDFs downloaded successfully.
+2024-11-15 16:05:25,892:INFO:Papers categorized successfully.
+2024-11-15 16:05:25,896:INFO:127.0.0.1 - - [15/Nov/2024 16:05:25] "[32mPOST / HTTP/1.1[0m" 302 -
+2024-11-15 16:05:25,907:INFO:127.0.0.1 - - [15/Nov/2024 16:05:25] "GET / HTTP/1.1" 200 -
+2024-11-15 16:05:49,230:ERROR:Error fetching papers from Semantic Scholar: 400
+2024-11-15 16:05:49,234:INFO:Papers stored and PDFs downloaded successfully.
+2024-11-15 16:05:49,237:INFO:Papers categorized successfully.
+2024-11-15 16:05:49,240:INFO:127.0.0.1 - - [15/Nov/2024 16:05:49] "[32mPOST / HTTP/1.1[0m" 302 -
+2024-11-15 16:05:49,246:INFO:127.0.0.1 - - [15/Nov/2024 16:05:49] "GET / HTTP/1.1" 200 -
+2024-11-15 16:06:04,284:ERROR:Error fetching papers from Semantic Scholar: 400
+2024-11-15 16:06:04,288:INFO:Papers stored and PDFs downloaded successfully.
+2024-11-15 16:06:04,291:INFO:Papers categorized successfully.
+2024-11-15 16:06:04,293:INFO:127.0.0.1 - - [15/Nov/2024 16:06:04] "[32mPOST / HTTP/1.1[0m" 302 -
+2024-11-15 16:06:04,300:INFO:127.0.0.1 - - [15/Nov/2024 16:06:04] "GET / HTTP/1.1" 200 -
+2024-11-15 16:08:06,892:ERROR:Error fetching papers from Semantic Scholar: 400
+2024-11-15 16:08:06,897:INFO:Papers stored and PDFs downloaded successfully.
+2024-11-15 16:08:06,907:INFO:Papers categorized successfully.
+2024-11-15 16:08:06,910:INFO:127.0.0.1 - - [15/Nov/2024 16:08:06] "[32mPOST / HTTP/1.1[0m" 302 -
+2024-11-15 16:08:06,917:INFO:127.0.0.1 - - [15/Nov/2024 16:08:06] "GET / HTTP/1.1" 200 -
+2024-11-15 16:17:57,037:INFO: * Detected change in '/Users/swayansubaral/PycharmProjects/WebCrawler/src/fetch_papers.py', reloading
+2024-11-15 16:17:57,382:INFO: * Restarting with stat
+2024-11-15 16:17:58,144:INFO:Database setup complete.
+2024-11-15 16:17:58,144:INFO:Session created successfully.
+2024-11-15 16:17:58,402:WARNING: * Debugger is active!
+2024-11-15 16:17:58,423:INFO: * Debugger PIN: 202-840-093
+2024-11-15 16:18:04,082:INFO:127.0.0.1 - - [15/Nov/2024 16:18:04] "GET / HTTP/1.1" 200 -
+2024-11-15 16:18:05,246:INFO:127.0.0.1 - - [15/Nov/2024 16:18:05] "GET / HTTP/1.1" 200 -
+2024-11-15 16:18:11,329:ERROR:Error fetching papers from Semantic Scholar: 400
+2024-11-15 16:18:11,334:INFO:Papers stored and PDFs downloaded successfully.
+2024-11-15 16:18:11,338:INFO:Papers categorized successfully.
+2024-11-15 16:18:11,343:INFO:127.0.0.1 - - [15/Nov/2024 16:18:11] "[32mPOST / HTTP/1.1[0m" 302 -
+2024-11-15 16:18:11,352:INFO:127.0.0.1 - - [15/Nov/2024 16:18:11] "GET / HTTP/1.1" 200 -
+2024-11-15 16:24:11,872:INFO: * Detected change in '/Users/swayansubaral/PycharmProjects/WebCrawler/src/fetch_papers.py', reloading
+2024-11-15 16:24:12,098:INFO: * Restarting with stat
+2024-11-15 16:24:13,131:INFO:Database setup complete.
+2024-11-15 16:24:13,132:INFO:Session created successfully.
+2024-11-15 16:24:13,417:WARNING: * Debugger is active!
+2024-11-15 16:24:13,443:INFO: * Debugger PIN: 202-840-093
+2024-11-15 16:24:21,570:INFO: * Detected change in '/Users/swayansubaral/PycharmProjects/WebCrawler/src/integrated_download.py', reloading
+2024-11-15 16:24:21,813:INFO: * Restarting with stat
+2024-11-15 16:24:22,691:INFO:Database setup complete.
+2024-11-15 16:24:22,691:INFO:Session created successfully.
+2024-11-15 16:24:22,939:WARNING: * Debugger is active!
+2024-11-15 16:24:22,973:INFO: * Debugger PIN: 202-840-093
+2024-11-15 16:24:34,134:INFO: * Detected change in '/Users/swayansubaral/PycharmProjects/WebCrawler/src/app.py', reloading
+2024-11-15 16:24:34,304:INFO: * Restarting with stat
+2024-11-15 16:24:35,041:INFO:Database setup complete.
+2024-11-15 16:24:35,041:INFO:Session created successfully.
+2024-11-15 16:24:35,279:WARNING: * Debugger is active!
+2024-11-15 16:24:35,295:INFO: * Debugger PIN: 202-840-093
+2024-11-15 16:25:45,298:INFO:Database setup complete.
+2024-11-15 16:25:45,299:INFO:Session created successfully.
+2024-11-15 16:25:45,627:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-15 16:25:45,627:INFO:[33mPress CTRL+C to quit[0m
+2024-11-15 16:25:45,629:INFO: * Restarting with stat
+2024-11-15 16:25:46,112:INFO:Database setup complete.
+2024-11-15 16:25:46,112:INFO:Session created successfully.
+2024-11-15 16:25:46,267:WARNING: * Debugger is active!
+2024-11-15 16:25:46,287:INFO: * Debugger PIN: 202-840-093
+2024-11-15 16:25:56,315:INFO:127.0.0.1 - - [15/Nov/2024 16:25:56] "GET / HTTP/1.1" 200 -
+2024-11-15 16:25:59,850:INFO:Starting integrated download process...
+2024-11-15 16:25:59,851:INFO:Fetching papers from Semantic Scholar...
+2024-11-15 16:25:59,851:INFO:Fetching papers with query: 'Relaxation Anxiety papers', limit: 5
+2024-11-15 16:26:02,065:ERROR:Error fetching papers from Semantic Scholar: 400 - {"error":"Unrecognized or unsupported fields: [doi, pdfUrl]"}
+
+2024-11-15 16:26:02,068:WARNING:No papers fetched from Semantic Scholar.
+2024-11-15 16:26:02,068:INFO:Storing fetched papers...
+2024-11-15 16:26:02,069:INFO:Papers stored and PDFs downloaded successfully.
+2024-11-15 16:26:02,069:INFO:Categorizing papers...
+2024-11-15 16:26:02,071:INFO:Papers categorized successfully.
+2024-11-15 16:26:02,072:INFO:Adding papers to Zotero...
+2024-11-15 16:26:02,073:INFO:Integrated download process completed successfully.
+2024-11-15 16:26:02,075:INFO:127.0.0.1 - - [15/Nov/2024 16:26:02] "[32mPOST / HTTP/1.1[0m" 302 -
+2024-11-15 16:26:02,082:INFO:127.0.0.1 - - [15/Nov/2024 16:26:02] "GET / HTTP/1.1" 200 -
+2024-11-15 16:27:45,919:INFO: * Detected change in '/Users/swayansubaral/PycharmProjects/WebCrawler/src/fetch_papers.py', reloading
+2024-11-15 16:27:46,115:INFO: * Restarting with stat
+2024-11-15 16:27:47,560:INFO:Database setup complete.
+2024-11-15 16:27:47,560:INFO:Session created successfully.
+2024-11-15 16:27:47,928:WARNING: * Debugger is active!
+2024-11-15 16:27:47,949:INFO: * Debugger PIN: 202-840-093
+2024-11-15 16:28:02,160:INFO: * Detected change in '/Users/swayansubaral/PycharmProjects/WebCrawler/src/store_papers.py', reloading
+2024-11-15 16:28:02,292:INFO: * Restarting with stat
+2024-11-15 16:28:03,080:INFO:Database setup complete.
+2024-11-15 16:28:03,080:INFO:Session created successfully.
+2024-11-15 16:28:03,444:WARNING: * Debugger is active!
+2024-11-15 16:28:03,471:INFO: * Debugger PIN: 202-840-093
+2024-11-15 16:28:15,634:INFO: * Detected change in '/Users/swayansubaral/PycharmProjects/WebCrawler/src/download_papers.py', reloading
+2024-11-15 16:28:15,842:INFO: * Restarting with stat
+2024-11-15 16:28:16,863:INFO:Database setup complete.
+2024-11-15 16:28:16,863:INFO:Session created successfully.
+2024-11-15 16:28:17,055:WARNING: * Debugger is active!
+2024-11-15 16:28:17,071:INFO: * Debugger PIN: 202-840-093
+2024-11-15 16:28:50,054:INFO:Database setup complete.
+2024-11-15 16:28:50,054:INFO:Session created successfully.
+2024-11-15 16:28:50,275:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-15 16:28:50,275:INFO:[33mPress CTRL+C to quit[0m
+2024-11-15 16:28:50,277:INFO: * Restarting with stat
+2024-11-15 16:28:50,838:INFO:Database setup complete.
+2024-11-15 16:28:50,838:INFO:Session created successfully.
+2024-11-15 16:28:50,968:WARNING: * Debugger is active!
+2024-11-15 16:28:50,987:INFO: * Debugger PIN: 202-840-093
+2024-11-15 16:29:10,515:INFO:127.0.0.1 - - [15/Nov/2024 16:29:10] "GET / HTTP/1.1" 200 -
+2024-11-15 16:29:13,914:INFO:Starting integrated download process...
+2024-11-15 16:29:13,927:INFO:Fetching papers from Semantic Scholar...
+2024-11-15 16:29:13,927:INFO:Fetching papers with query: 'Relaxation Anxiety papers', limit: 5
+2024-11-15 16:29:15,186:ERROR:Error fetching papers from Semantic Scholar: 400 - {"error":"Unrecognized or unsupported fields: [openAccessPdf.url]"}
+
+2024-11-15 16:29:15,189:WARNING:No papers fetched from Semantic Scholar.
+2024-11-15 16:29:15,189:INFO:Storing fetched papers...
+2024-11-15 16:29:15,189:INFO:Papers stored and PDFs downloaded successfully.
+2024-11-15 16:29:15,190:INFO:Categorizing papers...
+2024-11-15 16:29:15,192:INFO:Papers categorized successfully.
+2024-11-15 16:29:15,192:INFO:Adding papers to Zotero...
+2024-11-15 16:29:15,193:INFO:Integrated download process completed successfully.
+2024-11-15 16:29:15,195:INFO:127.0.0.1 - - [15/Nov/2024 16:29:15] "[32mPOST / HTTP/1.1[0m" 302 -
+2024-11-15 16:29:15,203:INFO:127.0.0.1 - - [15/Nov/2024 16:29:15] "GET / HTTP/1.1" 200 -
+2024-11-15 16:30:56,316:INFO: * Detected change in '/Users/swayansubaral/PycharmProjects/WebCrawler/src/fetch_papers.py', reloading
+2024-11-15 16:30:56,558:INFO: * Restarting with stat
+2024-11-15 16:30:57,489:INFO:Database setup complete.
+2024-11-15 16:30:57,490:INFO:Session created successfully.
+2024-11-15 16:30:57,703:WARNING: * Debugger is active!
+2024-11-15 16:30:57,722:INFO: * Debugger PIN: 202-840-093
+2024-11-15 16:31:54,757:INFO:Database setup complete.
+2024-11-15 16:31:54,757:INFO:Session created successfully.
+2024-11-15 16:31:54,973:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-15 16:31:54,973:INFO:[33mPress CTRL+C to quit[0m
+2024-11-15 16:31:54,975:INFO: * Restarting with stat
+2024-11-15 16:31:55,483:INFO:Database setup complete.
+2024-11-15 16:31:55,483:INFO:Session created successfully.
+2024-11-15 16:31:55,612:WARNING: * Debugger is active!
+2024-11-15 16:31:55,632:INFO: * Debugger PIN: 202-840-093
+2024-11-15 16:32:15,085:INFO:127.0.0.1 - - [15/Nov/2024 16:32:15] "GET / HTTP/1.1" 200 -
+2024-11-15 16:32:17,605:INFO:127.0.0.1 - - [15/Nov/2024 16:32:17] "GET / HTTP/1.1" 200 -
+2024-11-15 16:32:20,376:INFO:Starting integrated download process...
+2024-11-15 16:32:20,377:INFO:Fetching papers from Semantic Scholar...
+2024-11-15 16:32:20,377:INFO:Fetching papers with query: 'faang', limit: 5
+2024-11-15 16:32:21,338:INFO:Successfully fetched 5 papers.
+2024-11-15 16:32:21,340:INFO:Storing fetched papers...
+2024-11-15 16:32:22,763:INFO:Downloaded PDF for paper: FAANG Stocks, Gold, and Islamic Equity: Implications for Portfolio Management during COVID-19
+2024-11-15 16:32:22,778:INFO:Added new paper to database: FAANG Stocks, Gold, and Islamic Equity: Implications for Portfolio Management during COVID-19
+2024-11-15 16:32:22,778:ERROR:An error occurred while storing papers: 'NoneType' object has no attribute 'get'
+2024-11-15 16:32:22,779:INFO:Categorizing papers...
+2024-11-15 16:32:22,782:INFO:Papers categorized successfully.
+2024-11-15 16:32:22,783:INFO:Adding papers to Zotero...
+2024-11-15 16:32:22,784:INFO:Integrated download process completed successfully.
+2024-11-15 16:32:22,785:INFO:127.0.0.1 - - [15/Nov/2024 16:32:22] "[32mPOST / HTTP/1.1[0m" 302 -
+2024-11-15 16:32:22,792:INFO:127.0.0.1 - - [15/Nov/2024 16:32:22] "GET / HTTP/1.1" 200 -
+2024-11-15 16:35:54,655:INFO: * Detected change in '/Users/swayansubaral/PycharmProjects/WebCrawler/src/store_papers.py', reloading
+2024-11-15 16:35:54,959:INFO: * Restarting with stat
+2024-11-15 16:35:56,476:INFO:Database setup complete.
+2024-11-15 16:35:56,477:INFO:Session created successfully.
+2024-11-15 16:35:56,722:WARNING: * Debugger is active!
+2024-11-15 16:35:56,751:INFO: * Debugger PIN: 202-840-093
+2024-11-15 16:36:43,281:INFO: * Detected change in '/Users/swayansubaral/PycharmProjects/WebCrawler/src/test_fetch-papers.py', reloading
+2024-11-15 16:36:43,409:INFO: * Restarting with stat
+2024-11-15 16:36:44,478:INFO:Database setup complete.
+2024-11-15 16:36:44,479:INFO:Session created successfully.
+2024-11-15 16:36:44,714:WARNING: * Debugger is active!
+2024-11-15 16:36:44,744:INFO: * Debugger PIN: 202-840-093
+2024-11-15 16:39:29,812:INFO: * Detected change in '/Users/swayansubaral/PycharmProjects/WebCrawler/src/test_fetch_papers.py', reloading
+2024-11-15 16:39:30,092:INFO: * Restarting with stat
+2024-11-15 16:39:30,881:INFO:Database setup complete.
+2024-11-15 16:39:30,881:INFO:Session created successfully.
+2024-11-15 16:39:31,070:WARNING: * Debugger is active!
+2024-11-15 16:39:31,112:INFO: * Debugger PIN: 202-840-093
+2024-11-15 16:40:21,697:INFO:Database setup complete.
+2024-11-15 16:40:21,697:INFO:Session created successfully.
+2024-11-15 16:40:21,937:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-15 16:40:21,937:INFO:[33mPress CTRL+C to quit[0m
+2024-11-15 16:40:21,939:INFO: * Restarting with stat
+2024-11-15 16:40:22,413:INFO:Database setup complete.
+2024-11-15 16:40:22,414:INFO:Session created successfully.
+2024-11-15 16:40:22,539:WARNING: * Debugger is active!
+2024-11-15 16:40:22,558:INFO: * Debugger PIN: 202-840-093
+2024-11-15 16:40:27,031:INFO:127.0.0.1 - - [15/Nov/2024 16:40:27] "GET / HTTP/1.1" 200 -
+2024-11-15 16:40:31,711:INFO:Starting integrated download process...
+2024-11-15 16:40:31,711:INFO:Fetching papers from Semantic Scholar...
+2024-11-15 16:40:31,711:INFO:Fetching papers with query: 'Anxiety', limit: 5
+2024-11-15 16:40:32,485:INFO:Successfully fetched 5 papers.
+2024-11-15 16:40:32,487:INFO:Storing fetched papers...
+2024-11-15 16:40:32,490:INFO:Added new paper to database: Prevalence of stress, anxiety, depression among the general population during the COVID-19 pandemic: a systematic review and meta-analysis
+2024-11-15 16:40:35,621:INFO:Downloaded PDF for paper: The Hospital Anxiety and Depression Scale
+2024-11-15 16:40:35,633:INFO:Added new paper to database: The Hospital Anxiety and Depression Scale
+2024-11-15 16:40:35,635:INFO:Added new paper to database: A brief measure for assessing generalized anxiety disorder: the GAD-7.
+2024-11-15 16:40:35,640:INFO:Added new paper to database: Manual for the State-Trait Anxiety Inventory
+2024-11-15 16:40:35,642:INFO:Added new paper to database: The Hospital Anxiety and Depression Scale.
+2024-11-15 16:40:35,644:INFO:Papers stored and PDFs downloaded successfully.
+2024-11-15 16:40:35,644:INFO:Categorizing papers...
+2024-11-15 16:40:35,646:INFO:Categorized paper 'Prevalence of stress, anxiety, depression among the general population during the COVID-19 pandemic: a systematic review and meta-analysis' as Core.
+2024-11-15 16:40:35,646:INFO:Categorized paper 'The Hospital Anxiety and Depression Scale' as Core.
+2024-11-15 16:40:35,646:INFO:Categorized paper 'A brief measure for assessing generalized anxiety disorder: the GAD-7.' as Core.
+2024-11-15 16:40:35,646:INFO:Categorized paper 'Manual for the State-Trait Anxiety Inventory' as Core.
+2024-11-15 16:40:35,646:INFO:Categorized paper 'The Hospital Anxiety and Depression Scale.' as Core.
+2024-11-15 16:40:35,650:INFO:Papers categorized successfully.
+2024-11-15 16:40:35,651:INFO:Adding papers to Zotero...
+2024-11-15 16:40:36,455:ERROR:Failed to add to Zotero: Prevalence of stress, anxiety, depression among the general population during the COVID-19 pandemic: a systematic review and meta-analysis. Status Code: 404
+2024-11-15 16:40:37,263:ERROR:Failed to add to Zotero: The Hospital Anxiety and Depression Scale. Status Code: 404
+2024-11-15 16:40:37,981:ERROR:Failed to add to Zotero: A brief measure for assessing generalized anxiety disorder: the GAD-7.. Status Code: 404
+2024-11-15 16:40:38,733:ERROR:Failed to add to Zotero: Manual for the State-Trait Anxiety Inventory. Status Code: 404
+2024-11-15 16:40:39,517:ERROR:Failed to add to Zotero: The Hospital Anxiety and Depression Scale.. Status Code: 404
+2024-11-15 16:40:39,519:INFO:Integrated download process completed successfully.
+2024-11-15 16:40:39,521:INFO:127.0.0.1 - - [15/Nov/2024 16:40:39] "[32mPOST / HTTP/1.1[0m" 302 -
+2024-11-15 16:40:39,555:INFO:127.0.0.1 - - [15/Nov/2024 16:40:39] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-11-15 16:40:39,643:INFO:127.0.0.1 - - [15/Nov/2024 16:40:39] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-11-15 16:40:39,644:INFO:127.0.0.1 - - [15/Nov/2024 16:40:39] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-11-15 16:40:39,693:INFO:127.0.0.1 - - [15/Nov/2024 16:40:39] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=0Yud5RxoQyATY1T6louL HTTP/1.1" 200 -
+2024-11-15 16:40:39,737:INFO:127.0.0.1 - - [15/Nov/2024 16:40:39] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-11-15 16:43:35,140:INFO: * Detected change in '/Users/swayansubaral/PycharmProjects/WebCrawler/src/app.py', reloading
+2024-11-15 16:43:35,514:INFO: * Restarting with stat
+2024-11-15 16:43:36,314:INFO:Database setup complete.
+2024-11-15 16:43:36,315:INFO:Session created successfully.
+2024-11-15 16:43:36,513:WARNING: * Debugger is active!
+2024-11-15 16:43:36,533:INFO: * Debugger PIN: 202-840-093
+2024-11-15 16:43:39,507:INFO:Database setup complete.
+2024-11-15 16:43:39,507:INFO:Session created successfully.
+2024-11-15 16:43:39,638:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-15 16:43:39,638:INFO:[33mPress CTRL+C to quit[0m
+2024-11-15 16:43:39,639:INFO: * Restarting with stat
+2024-11-15 16:43:40,118:INFO:Database setup complete.
+2024-11-15 16:43:40,118:INFO:Session created successfully.
+2024-11-15 16:43:40,238:WARNING: * Debugger is active!
+2024-11-15 16:43:40,254:INFO: * Debugger PIN: 202-840-093
+2024-11-15 16:43:48,742:INFO:127.0.0.1 - - [15/Nov/2024 16:43:48] "GET / HTTP/1.1" 200 -
+2024-11-15 16:44:01,050:INFO:Starting integrated download process...
+2024-11-15 16:44:01,051:INFO:Fetching papers from Semantic Scholar...
+2024-11-15 16:44:01,051:INFO:Fetching papers with query: 'Relaxation', limit: 5
+2024-11-15 16:44:02,267:INFO:Successfully fetched 5 papers.
+2024-11-15 16:44:02,270:INFO:Storing fetched papers...
+2024-11-15 16:44:02,275:INFO:Added new paper to database: Stochastic Relaxation, Gibbs Distributions, and the Bayesian Restoration of Images
+2024-11-15 16:44:02,283:INFO:Added new paper to database: The obligatory role of endothelial cells in the relaxation of arterial smooth muscle by acetylcholine
+2024-11-15 16:44:02,286:INFO:Added new paper to database: The Concrete Distribution: A Continuous Relaxation of Discrete Random Variables
+2024-11-15 16:44:02,287:INFO:Added new paper to database: Dielectric relaxation in solids
+2024-11-15 16:44:02,288:INFO:Added new paper to database: The Temperature Dependence of Relaxation Mechanisms in Amorphous Polymers and Other Glass-Forming Liquids
+2024-11-15 16:44:02,291:INFO:Papers stored and PDFs downloaded successfully.
+2024-11-15 16:44:02,291:INFO:Categorizing papers...
+2024-11-15 16:44:02,292:INFO:Categorized paper 'Prevalence of stress, anxiety, depression among the general population during the COVID-19 pandemic: a systematic review and meta-analysis' as Core.
+2024-11-15 16:44:02,292:INFO:Categorized paper 'The Hospital Anxiety and Depression Scale' as Core.
+2024-11-15 16:44:02,292:INFO:Categorized paper 'A brief measure for assessing generalized anxiety disorder: the GAD-7.' as Core.
+2024-11-15 16:44:02,292:INFO:Categorized paper 'Manual for the State-Trait Anxiety Inventory' as Core.
+2024-11-15 16:44:02,292:INFO:Categorized paper 'The Hospital Anxiety and Depression Scale.' as Core.
+2024-11-15 16:44:02,292:INFO:Categorized paper 'Stochastic Relaxation, Gibbs Distributions, and the Bayesian Restoration of Images' as Core.
+2024-11-15 16:44:02,292:INFO:Categorized paper 'The obligatory role of endothelial cells in the relaxation of arterial smooth muscle by acetylcholine' as Core.
+2024-11-15 16:44:02,293:INFO:Categorized paper 'The Concrete Distribution: A Continuous Relaxation of Discrete Random Variables' as Core.
+2024-11-15 16:44:02,293:INFO:Categorized paper 'Dielectric relaxation in solids' as Core.
+2024-11-15 16:44:02,293:INFO:Categorized paper 'The Temperature Dependence of Relaxation Mechanisms in Amorphous Polymers and Other Glass-Forming Liquids' as Core.
+2024-11-15 16:44:02,296:INFO:Papers categorized successfully.
+2024-11-15 16:44:02,296:INFO:Adding papers to Zotero...
+2024-11-15 16:44:03,023:ERROR:Failed to add to Zotero: Prevalence of stress, anxiety, depression among the general population during the COVID-19 pandemic: a systematic review and meta-analysis. Status Code: 404
+2024-11-15 16:44:03,696:ERROR:Failed to add to Zotero: The Hospital Anxiety and Depression Scale. Status Code: 404
+2024-11-15 16:44:04,431:ERROR:Failed to add to Zotero: A brief measure for assessing generalized anxiety disorder: the GAD-7.. Status Code: 404
+2024-11-15 16:44:05,238:ERROR:Failed to add to Zotero: Manual for the State-Trait Anxiety Inventory. Status Code: 404
+2024-11-15 16:44:06,057:ERROR:Failed to add to Zotero: The Hospital Anxiety and Depression Scale.. Status Code: 404
+2024-11-15 16:44:06,776:ERROR:Failed to add to Zotero: Stochastic Relaxation, Gibbs Distributions, and the Bayesian Restoration of Images. Status Code: 404
+2024-11-15 16:44:07,463:ERROR:Failed to add to Zotero: The obligatory role of endothelial cells in the relaxation of arterial smooth muscle by acetylcholine. Status Code: 404
+2024-11-15 16:44:08,208:ERROR:Failed to add to Zotero: The Concrete Distribution: A Continuous Relaxation of Discrete Random Variables. Status Code: 404
+2024-11-15 16:44:08,873:ERROR:Failed to add to Zotero: Dielectric relaxation in solids. Status Code: 404
+2024-11-15 16:44:09,536:ERROR:Failed to add to Zotero: The Temperature Dependence of Relaxation Mechanisms in Amorphous Polymers and Other Glass-Forming Liquids. Status Code: 404
+2024-11-15 16:44:09,538:INFO:Integrated download process completed successfully.
+2024-11-15 16:44:09,540:INFO:127.0.0.1 - - [15/Nov/2024 16:44:09] "[32mPOST / HTTP/1.1[0m" 302 -
+2024-11-15 16:44:09,547:INFO:127.0.0.1 - - [15/Nov/2024 16:44:09] "GET / HTTP/1.1" 200 -
+2024-11-15 16:44:41,333:INFO:Starting integrated download process...
+2024-11-15 16:44:41,337:INFO:Fetching papers from Semantic Scholar...
+2024-11-15 16:44:41,337:INFO:Fetching papers with query: 'Ai in vr', limit: 5
+2024-11-15 16:44:42,478:INFO:Successfully fetched 5 papers.
+2024-11-15 16:44:42,480:INFO:Storing fetched papers...
+2024-11-15 16:44:42,482:INFO:Added new paper to database: Experiencing AI in VR: A Qualitative Study on Designing a Human-Machine Collaboration Scenario
+2024-11-15 16:44:42,485:INFO:Added new paper to database: An architecture for immersive interactions with an emotional character AI in VR
+2024-11-15 16:44:42,487:INFO:Added new paper to database: Generative AI for Immersive Experiences: Integrating Text-to-Image Models in VR-Mediated Co-design Workflows
+2024-11-15 16:44:42,488:INFO:Added new paper to database: Independently Supporting Learners in VR with an AI-enabled Non-Player Character (NPC)
+2024-11-15 16:44:42,489:INFO:Added new paper to database: Process control using AI on a digital twin of an extraction column in VR
+2024-11-15 16:44:42,491:INFO:Papers stored and PDFs downloaded successfully.
+2024-11-15 16:44:42,492:INFO:Categorizing papers...
+2024-11-15 16:44:42,493:INFO:Categorized paper 'Prevalence of stress, anxiety, depression among the general population during the COVID-19 pandemic: a systematic review and meta-analysis' as Core.
+2024-11-15 16:44:42,493:INFO:Categorized paper 'The Hospital Anxiety and Depression Scale' as Core.
+2024-11-15 16:44:42,493:INFO:Categorized paper 'A brief measure for assessing generalized anxiety disorder: the GAD-7.' as Core.
+2024-11-15 16:44:42,493:INFO:Categorized paper 'Manual for the State-Trait Anxiety Inventory' as Core.
+2024-11-15 16:44:42,493:INFO:Categorized paper 'The Hospital Anxiety and Depression Scale.' as Core.
+2024-11-15 16:44:42,493:INFO:Categorized paper 'Stochastic Relaxation, Gibbs Distributions, and the Bayesian Restoration of Images' as Core.
+2024-11-15 16:44:42,494:INFO:Categorized paper 'The obligatory role of endothelial cells in the relaxation of arterial smooth muscle by acetylcholine' as Core.
+2024-11-15 16:44:42,494:INFO:Categorized paper 'The Concrete Distribution: A Continuous Relaxation of Discrete Random Variables' as Core.
+2024-11-15 16:44:42,494:INFO:Categorized paper 'Dielectric relaxation in solids' as Core.
+2024-11-15 16:44:42,494:INFO:Categorized paper 'The Temperature Dependence of Relaxation Mechanisms in Amorphous Polymers and Other Glass-Forming Liquids' as Core.
+2024-11-15 16:44:42,494:INFO:Categorized paper 'Experiencing AI in VR: A Qualitative Study on Designing a Human-Machine Collaboration Scenario' as Supplementary.
+2024-11-15 16:44:42,494:INFO:Categorized paper 'An architecture for immersive interactions with an emotional character AI in VR' as Supplementary.
+2024-11-15 16:44:42,494:INFO:Categorized paper 'Generative AI for Immersive Experiences: Integrating Text-to-Image Models in VR-Mediated Co-design Workflows' as Supplementary.
+2024-11-15 16:44:42,494:INFO:Categorized paper 'Independently Supporting Learners in VR with an AI-enabled Non-Player Character (NPC)' as Supplementary.
+2024-11-15 16:44:42,494:INFO:Categorized paper 'Process control using AI on a digital twin of an extraction column in VR' as Supplementary.
+2024-11-15 16:44:42,497:INFO:Papers categorized successfully.
+2024-11-15 16:44:42,498:INFO:Adding papers to Zotero...
+2024-11-15 16:44:43,430:ERROR:Failed to add to Zotero: Prevalence of stress, anxiety, depression among the general population during the COVID-19 pandemic: a systematic review and meta-analysis. Status Code: 404
+2024-11-15 16:44:44,195:ERROR:Failed to add to Zotero: The Hospital Anxiety and Depression Scale. Status Code: 404
+2024-11-15 16:44:45,071:ERROR:Failed to add to Zotero: A brief measure for assessing generalized anxiety disorder: the GAD-7.. Status Code: 404
+2024-11-15 16:44:45,890:ERROR:Failed to add to Zotero: Manual for the State-Trait Anxiety Inventory. Status Code: 404
+2024-11-15 16:44:46,609:ERROR:Failed to add to Zotero: The Hospital Anxiety and Depression Scale.. Status Code: 404
+2024-11-15 16:44:47,281:ERROR:Failed to add to Zotero: Stochastic Relaxation, Gibbs Distributions, and the Bayesian Restoration of Images. Status Code: 404
+2024-11-15 16:44:48,053:ERROR:Failed to add to Zotero: The obligatory role of endothelial cells in the relaxation of arterial smooth muscle by acetylcholine. Status Code: 404
+2024-11-15 16:44:48,738:ERROR:Failed to add to Zotero: The Concrete Distribution: A Continuous Relaxation of Discrete Random Variables. Status Code: 404
+2024-11-15 16:44:49,494:ERROR:Failed to add to Zotero: Dielectric relaxation in solids. Status Code: 404
+2024-11-15 16:44:50,177:ERROR:Failed to add to Zotero: The Temperature Dependence of Relaxation Mechanisms in Amorphous Polymers and Other Glass-Forming Liquids. Status Code: 404
+2024-11-15 16:44:50,861:ERROR:Failed to add to Zotero: Experiencing AI in VR: A Qualitative Study on Designing a Human-Machine Collaboration Scenario. Status Code: 404
+2024-11-15 16:44:51,539:ERROR:Failed to add to Zotero: An architecture for immersive interactions with an emotional character AI in VR. Status Code: 404
+2024-11-15 16:44:52,241:ERROR:Failed to add to Zotero: Generative AI for Immersive Experiences: Integrating Text-to-Image Models in VR-Mediated Co-design Workflows. Status Code: 404
+2024-11-15 16:44:52,977:ERROR:Failed to add to Zotero: Independently Supporting Learners in VR with an AI-enabled Non-Player Character (NPC). Status Code: 404
+2024-11-15 16:44:53,776:ERROR:Failed to add to Zotero: Process control using AI on a digital twin of an extraction column in VR. Status Code: 404
+2024-11-15 16:44:53,778:INFO:Integrated download process completed successfully.
+2024-11-15 16:44:53,780:INFO:127.0.0.1 - - [15/Nov/2024 16:44:53] "[32mPOST / HTTP/1.1[0m" 302 -
+2024-11-15 16:44:53,790:INFO:127.0.0.1 - - [15/Nov/2024 16:44:53] "GET / HTTP/1.1" 200 -
+2024-11-15 16:48:07,848:INFO:127.0.0.1 - - [15/Nov/2024 16:48:07] "GET /download/2 HTTP/1.1" 200 -
+2024-11-15 17:10:56,366:INFO: * Detected change in '/Users/swayansubaral/PycharmProjects/WebCrawler/src/store_papers.py', reloading
+2024-11-15 17:10:56,741:INFO: * Restarting with stat
+2024-11-15 17:10:57,779:INFO:Database setup complete.
+2024-11-15 17:10:57,779:INFO:Session created successfully.
+2024-11-15 17:10:57,973:WARNING: * Debugger is active!
+2024-11-15 17:10:58,001:INFO: * Debugger PIN: 202-840-093
+2024-11-15 17:11:05,110:INFO: * Detected change in '/Users/swayansubaral/PycharmProjects/WebCrawler/src/store_papers.py', reloading
+2024-11-15 17:11:05,263:INFO: * Restarting with stat
+2024-11-15 17:11:06,231:INFO:Database setup complete.
+2024-11-15 17:11:06,231:INFO:Session created successfully.
+2024-11-15 17:11:06,501:WARNING: * Debugger is active!
+2024-11-15 17:11:06,535:INFO: * Debugger PIN: 202-840-093
+2024-11-15 17:11:14,677:INFO: * Detected change in '/Users/swayansubaral/PycharmProjects/WebCrawler/src/store_papers.py', reloading
+2024-11-15 17:11:14,876:INFO: * Restarting with stat
+2024-11-15 17:11:15,709:INFO:Database setup complete.
+2024-11-15 17:11:15,710:INFO:Session created successfully.
+2024-11-15 17:11:15,907:WARNING: * Debugger is active!
+2024-11-15 17:11:15,928:INFO: * Debugger PIN: 202-840-093
+2024-11-15 17:11:30,122:INFO: * Detected change in '/Users/swayansubaral/PycharmProjects/WebCrawler/src/download_papers.py', reloading
+2024-11-15 17:11:30,305:INFO: * Restarting with stat
+2024-11-15 17:11:31,672:INFO:Database setup complete.
+2024-11-15 17:11:31,673:INFO:Session created successfully.
+2024-11-15 17:11:32,057:WARNING: * Debugger is active!
+2024-11-15 17:11:32,084:INFO: * Debugger PIN: 202-840-093
+2024-11-15 17:11:53,755:INFO:127.0.0.1 - - [15/Nov/2024 17:11:53] "GET / HTTP/1.1" 200 -
+2024-11-15 17:11:59,692:INFO:Starting integrated download process...
+2024-11-15 17:11:59,693:INFO:Fetching papers from Semantic Scholar...
+2024-11-15 17:11:59,693:INFO:Fetching papers with query: 'AI in VR', limit: 5
+2024-11-15 17:12:00,988:INFO:Successfully fetched 5 papers.
+2024-11-15 17:12:00,990:INFO:Storing fetched papers...
+2024-11-15 17:12:00,991:ERROR:An error occurred while storing papers: name 'logger' is not defined
+2024-11-15 17:12:00,991:INFO:Categorizing papers...
+2024-11-15 17:12:00,994:INFO:Categorized paper 'Prevalence of stress, anxiety, depression among the general population during the COVID-19 pandemic: a systematic review and meta-analysis' as Core.
+2024-11-15 17:12:00,994:INFO:Categorized paper 'The Hospital Anxiety and Depression Scale' as Core.
+2024-11-15 17:12:00,994:INFO:Categorized paper 'A brief measure for assessing generalized anxiety disorder: the GAD-7.' as Core.
+2024-11-15 17:12:00,994:INFO:Categorized paper 'Manual for the State-Trait Anxiety Inventory' as Core.
+2024-11-15 17:12:00,994:INFO:Categorized paper 'The Hospital Anxiety and Depression Scale.' as Core.
+2024-11-15 17:12:00,994:INFO:Categorized paper 'Stochastic Relaxation, Gibbs Distributions, and the Bayesian Restoration of Images' as Core.
+2024-11-15 17:12:00,994:INFO:Categorized paper 'The obligatory role of endothelial cells in the relaxation of arterial smooth muscle by acetylcholine' as Core.
+2024-11-15 17:12:00,994:INFO:Categorized paper 'The Concrete Distribution: A Continuous Relaxation of Discrete Random Variables' as Core.
+2024-11-15 17:12:00,995:INFO:Categorized paper 'Dielectric relaxation in solids' as Core.
+2024-11-15 17:12:00,995:INFO:Categorized paper 'The Temperature Dependence of Relaxation Mechanisms in Amorphous Polymers and Other Glass-Forming Liquids' as Core.
+2024-11-15 17:12:00,995:INFO:Categorized paper 'Experiencing AI in VR: A Qualitative Study on Designing a Human-Machine Collaboration Scenario' as Supplementary.
+2024-11-15 17:12:00,995:INFO:Categorized paper 'An architecture for immersive interactions with an emotional character AI in VR' as Supplementary.
+2024-11-15 17:12:00,995:INFO:Categorized paper 'Generative AI for Immersive Experiences: Integrating Text-to-Image Models in VR-Mediated Co-design Workflows' as Supplementary.
+2024-11-15 17:12:00,995:INFO:Categorized paper 'Independently Supporting Learners in VR with an AI-enabled Non-Player Character (NPC)' as Supplementary.
+2024-11-15 17:12:00,995:INFO:Categorized paper 'Process control using AI on a digital twin of an extraction column in VR' as Supplementary.
+2024-11-15 17:12:00,997:INFO:Papers categorized successfully.
+2024-11-15 17:12:00,998:INFO:Adding papers to Zotero...
+2024-11-15 17:12:01,764:ERROR:Failed to add to Zotero: Prevalence of stress, anxiety, depression among the general population during the COVID-19 pandemic: a systematic review and meta-analysis. Status Code: 404
+2024-11-15 17:12:02,686:ERROR:Failed to add to Zotero: The Hospital Anxiety and Depression Scale. Status Code: 404
+2024-11-15 17:12:03,421:ERROR:Failed to add to Zotero: A brief measure for assessing generalized anxiety disorder: the GAD-7.. Status Code: 404
+2024-11-15 17:12:04,123:ERROR:Failed to add to Zotero: Manual for the State-Trait Anxiety Inventory. Status Code: 404
+2024-11-15 17:12:04,872:ERROR:Failed to add to Zotero: The Hospital Anxiety and Depression Scale.. Status Code: 404
+2024-11-15 17:12:05,542:ERROR:Failed to add to Zotero: Stochastic Relaxation, Gibbs Distributions, and the Bayesian Restoration of Images. Status Code: 404
+2024-11-15 17:12:06,373:ERROR:Failed to add to Zotero: The obligatory role of endothelial cells in the relaxation of arterial smooth muscle by acetylcholine. Status Code: 404
+2024-11-15 17:12:07,194:ERROR:Failed to add to Zotero: The Concrete Distribution: A Continuous Relaxation of Discrete Random Variables. Status Code: 404
+2024-11-15 17:12:07,912:ERROR:Failed to add to Zotero: Dielectric relaxation in solids. Status Code: 404
+2024-11-15 17:12:08,833:ERROR:Failed to add to Zotero: The Temperature Dependence of Relaxation Mechanisms in Amorphous Polymers and Other Glass-Forming Liquids. Status Code: 404
+2024-11-15 17:12:09,588:ERROR:Failed to add to Zotero: Experiencing AI in VR: A Qualitative Study on Designing a Human-Machine Collaboration Scenario. Status Code: 404
+2024-11-15 17:12:10,357:ERROR:Failed to add to Zotero: An architecture for immersive interactions with an emotional character AI in VR. Status Code: 404
+2024-11-15 17:12:11,030:ERROR:Failed to add to Zotero: Generative AI for Immersive Experiences: Integrating Text-to-Image Models in VR-Mediated Co-design Workflows. Status Code: 404
+2024-11-15 17:12:11,707:ERROR:Failed to add to Zotero: Independently Supporting Learners in VR with an AI-enabled Non-Player Character (NPC). Status Code: 404
+2024-11-15 17:12:12,417:ERROR:Failed to add to Zotero: Process control using AI on a digital twin of an extraction column in VR. Status Code: 404
+2024-11-15 17:12:12,420:INFO:Integrated download process completed successfully.
+2024-11-15 17:12:12,421:INFO:127.0.0.1 - - [15/Nov/2024 17:12:12] "[32mPOST / HTTP/1.1[0m" 302 -
+2024-11-15 17:12:12,435:INFO:127.0.0.1 - - [15/Nov/2024 17:12:12] "GET / HTTP/1.1" 200 -
+2024-11-15 17:19:52,041:INFO: * Detected change in '/Users/swayansubaral/PycharmProjects/WebCrawler/src/fetch_papers.py', reloading
+2024-11-15 17:19:52,306:INFO: * Restarting with stat
+2024-11-15 17:19:53,246:INFO:Database setup complete.
+2024-11-15 17:19:53,248:INFO:Session created successfully.
+2024-11-15 17:19:53,523:WARNING: * Debugger is active!
+2024-11-15 17:19:53,552:INFO: * Debugger PIN: 202-840-093
+2024-11-15 17:20:06,711:INFO: * Detected change in '/Users/swayansubaral/PycharmProjects/WebCrawler/src/store_papers.py', reloading
+2024-11-15 17:20:06,957:INFO: * Restarting with stat
+2024-11-15 17:20:08,869:INFO:Database setup complete.
+2024-11-15 17:20:08,870:INFO:Session created successfully.
+2024-11-15 17:20:09,099:WARNING: * Debugger is active!
+2024-11-15 17:20:09,122:INFO: * Debugger PIN: 202-840-093
+2024-11-15 17:20:25,350:INFO: * Detected change in '/Users/swayansubaral/PycharmProjects/WebCrawler/src/app.py', reloading
+2024-11-15 17:20:25,468:INFO: * Restarting with stat
+2024-11-15 17:20:26,841:INFO:Database setup complete.
+2024-11-15 17:20:26,841:INFO:Session created successfully.
+2024-11-15 17:20:27,159:WARNING: * Debugger is active!
+2024-11-15 17:20:27,179:INFO: * Debugger PIN: 202-840-093
+2024-11-15 17:20:55,743:INFO: * Detected change in '/Users/swayansubaral/PycharmProjects/WebCrawler/src/fetch_papers.py', reloading
+2024-11-15 17:20:55,882:INFO: * Restarting with stat
+2024-11-15 17:20:56,783:INFO:Database setup complete.
+2024-11-15 17:20:56,784:INFO:Session created successfully.
+2024-11-15 17:20:56,994:WARNING: * Debugger is active!
+2024-11-15 17:20:57,019:INFO: * Debugger PIN: 202-840-093
+2024-11-15 17:21:14,254:INFO: * Detected change in '/Users/swayansubaral/PycharmProjects/WebCrawler/src/download_papers.py', reloading
+2024-11-15 17:21:14,508:INFO: * Restarting with stat
+2024-11-15 17:21:15,474:INFO:Database setup complete.
+2024-11-15 17:21:15,474:INFO:Session created successfully.
+2024-11-15 17:21:15,777:WARNING: * Debugger is active!
+2024-11-15 17:21:15,797:INFO: * Debugger PIN: 202-840-093
+2024-11-15 17:22:09,087:INFO:Starting integrated download process...
+2024-11-15 17:22:09,087:INFO:Fetching papers from Semantic Scholar...
+2024-11-15 17:22:09,087:INFO:Fetching papers with query: 'Relaxtion Stress Anxiety in Psychology', limit: 20
+2024-11-15 17:22:09,511:INFO:Successfully fetched 5 papers.
+2024-11-15 17:22:09,513:INFO:Storing fetched papers...
+2024-11-15 17:22:09,513:INFO:Skipping paper (no PDF available): Comparison Viewpoint Specialists, Parents and Adolescence about Adolescence Anxiety in Sharekord city (Iran)
+2024-11-15 17:22:09,513:INFO:Skipping paper (no PDF available): MEASUREMENT OF ANXIETY LEVEL USING THE DEPRESSION ANXIETY SCALE (DASS) ANXIETY MEASUREMENT ON PREGNANT WOMEN IN DEALING WITH DELIVERY IN REMOTE WATER AREA AND FACTORS THAT INFLUENCE IT IN DABONG VILLAGE, BA DISTRICT, KUBUTAN, 2022.
+2024-11-15 17:22:11,111:ERROR:Failed to download PDF for paper: The Cooperative Revolution Reaches Clinical Psychology and Psychotherapy: An Example From Germany - Status Code: 403
+2024-11-15 17:22:11,132:INFO:Added new paper to database: The Cooperative Revolution Reaches Clinical Psychology and Psychotherapy: An Example From Germany
+2024-11-15 17:22:11,132:INFO:Skipping paper (no PDF available): Development of Group Therapy Program for North Korean Refugees with Posttraumatic Stress Disorder and Pre-Study on Its Effect
+2024-11-15 17:22:11,132:INFO:Skipping paper (no PDF available): Respiration and emotion
+2024-11-15 17:22:11,143:INFO:Papers stored and PDFs downloaded successfully.
+2024-11-15 17:22:11,143:INFO:Categorizing papers...
+2024-11-15 17:22:11,147:INFO:Categorized paper 'Prevalence of stress, anxiety, depression among the general population during the COVID-19 pandemic: a systematic review and meta-analysis' as Core.
+2024-11-15 17:22:11,147:INFO:Categorized paper 'The Hospital Anxiety and Depression Scale' as Core.
+2024-11-15 17:22:11,147:INFO:Categorized paper 'A brief measure for assessing generalized anxiety disorder: the GAD-7.' as Core.
+2024-11-15 17:22:11,147:INFO:Categorized paper 'Manual for the State-Trait Anxiety Inventory' as Core.
+2024-11-15 17:22:11,148:INFO:Categorized paper 'The Hospital Anxiety and Depression Scale.' as Core.
+2024-11-15 17:22:11,148:INFO:Categorized paper 'Stochastic Relaxation, Gibbs Distributions, and the Bayesian Restoration of Images' as Core.
+2024-11-15 17:22:11,148:INFO:Categorized paper 'The obligatory role of endothelial cells in the relaxation of arterial smooth muscle by acetylcholine' as Core.
+2024-11-15 17:22:11,148:INFO:Categorized paper 'The Concrete Distribution: A Continuous Relaxation of Discrete Random Variables' as Core.
+2024-11-15 17:22:11,148:INFO:Categorized paper 'Dielectric relaxation in solids' as Core.
+2024-11-15 17:22:11,148:INFO:Categorized paper 'The Temperature Dependence of Relaxation Mechanisms in Amorphous Polymers and Other Glass-Forming Liquids' as Core.
+2024-11-15 17:22:11,148:INFO:Categorized paper 'Experiencing AI in VR: A Qualitative Study on Designing a Human-Machine Collaboration Scenario' as Supplementary.
+2024-11-15 17:22:11,148:INFO:Categorized paper 'An architecture for immersive interactions with an emotional character AI in VR' as Supplementary.
+2024-11-15 17:22:11,148:INFO:Categorized paper 'Generative AI for Immersive Experiences: Integrating Text-to-Image Models in VR-Mediated Co-design Workflows' as Supplementary.
+2024-11-15 17:22:11,148:INFO:Categorized paper 'Independently Supporting Learners in VR with an AI-enabled Non-Player Character (NPC)' as Supplementary.
+2024-11-15 17:22:11,148:INFO:Categorized paper 'Process control using AI on a digital twin of an extraction column in VR' as Supplementary.
+2024-11-15 17:22:11,148:INFO:Categorized paper 'The Cooperative Revolution Reaches Clinical Psychology and Psychotherapy: An Example From Germany' as Supplementary.
+2024-11-15 17:22:11,153:INFO:Papers categorized successfully.
+2024-11-15 17:22:11,153:INFO:Adding papers to Zotero...
+2024-11-15 17:22:11,859:ERROR:Failed to add to Zotero: Prevalence of stress, anxiety, depression among the general population during the COVID-19 pandemic: a systematic review and meta-analysis. Status Code: 404
+2024-11-15 17:22:12,545:ERROR:Failed to add to Zotero: The Hospital Anxiety and Depression Scale. Status Code: 404
+2024-11-15 17:22:13,222:ERROR:Failed to add to Zotero: A brief measure for assessing generalized anxiety disorder: the GAD-7.. Status Code: 404
+2024-11-15 17:22:13,954:ERROR:Failed to add to Zotero: Manual for the State-Trait Anxiety Inventory. Status Code: 404
+2024-11-15 17:22:14,621:ERROR:Failed to add to Zotero: The Hospital Anxiety and Depression Scale.. Status Code: 404
+2024-11-15 17:22:15,474:ERROR:Failed to add to Zotero: Stochastic Relaxation, Gibbs Distributions, and the Bayesian Restoration of Images. Status Code: 404
+2024-11-15 17:22:16,294:ERROR:Failed to add to Zotero: The obligatory role of endothelial cells in the relaxation of arterial smooth muscle by acetylcholine. Status Code: 404
+2024-11-15 17:22:17,115:ERROR:Failed to add to Zotero: The Concrete Distribution: A Continuous Relaxation of Discrete Random Variables. Status Code: 404
+2024-11-15 17:22:17,942:ERROR:Failed to add to Zotero: Dielectric relaxation in solids. Status Code: 404
+2024-11-15 17:22:18,599:ERROR:Failed to add to Zotero: The Temperature Dependence of Relaxation Mechanisms in Amorphous Polymers and Other Glass-Forming Liquids. Status Code: 404
+2024-11-15 17:22:19,365:ERROR:Failed to add to Zotero: Experiencing AI in VR: A Qualitative Study on Designing a Human-Machine Collaboration Scenario. Status Code: 404
+2024-11-15 17:22:20,014:ERROR:Failed to add to Zotero: An architecture for immersive interactions with an emotional character AI in VR. Status Code: 404
+2024-11-15 17:22:20,666:ERROR:Failed to add to Zotero: Generative AI for Immersive Experiences: Integrating Text-to-Image Models in VR-Mediated Co-design Workflows. Status Code: 404
+2024-11-15 17:22:21,518:ERROR:Failed to add to Zotero: Independently Supporting Learners in VR with an AI-enabled Non-Player Character (NPC). Status Code: 404
+2024-11-15 17:22:22,337:ERROR:Failed to add to Zotero: Process control using AI on a digital twin of an extraction column in VR. Status Code: 404
+2024-11-15 17:22:23,156:ERROR:Failed to add to Zotero: The Cooperative Revolution Reaches Clinical Psychology and Psychotherapy: An Example From Germany. Status Code: 404
+2024-11-15 17:22:23,158:INFO:Integrated download process completed successfully.
+2024-11-15 17:22:23,160:INFO:127.0.0.1 - - [15/Nov/2024 17:22:23] "[32mPOST / HTTP/1.1[0m" 302 -
+2024-11-15 17:22:23,187:INFO:127.0.0.1 - - [15/Nov/2024 17:22:23] "GET / HTTP/1.1" 200 -
+2024-11-15 17:27:49,365:INFO:Starting integrated download process...
+2024-11-15 17:27:49,368:INFO:Fetching papers from Semantic Scholar...
+2024-11-15 17:27:49,368:INFO:Fetching papers with query: 'Relaxation Anxiety papers', limit: 20
+2024-11-15 17:27:50,799:INFO:Successfully fetched 20 papers.
+2024-11-15 17:27:50,801:INFO:Storing fetched papers...
+2024-11-15 17:27:50,801:INFO:Skipping paper (no PDF available): INDONESIAN EFL STUDENTS' ANXIETY IN WRITING FINAL PAPERS IN THE UNISKA-KEDIRI ENGLISH EDUCATION DEPARTMENT: FACTORS AND STRATEGIES
+2024-11-15 17:27:52,297:INFO:Downloaded PDF for paper: Efficacy of Hypnosis on Dental Anxiety and Phobia: A Systematic Review and Meta-Analysis
+2024-11-15 17:27:52,337:INFO:Added new paper to database: Efficacy of Hypnosis on Dental Anxiety and Phobia: A Systematic Review and Meta-Analysis
+2024-11-15 17:27:52,337:INFO:Skipping paper (no PDF available): P‐4.34: Virtual Reality Content Generation for Anxiety and Stress Management: Current Status, Challenges, and Future Developments
+2024-11-15 17:27:52,337:INFO:Skipping paper (no PDF available): Current Research on Complementary and Alternative Medicine (CAM) in the Treatment of Anxiety Disorders: An Evidence-Based Review.
+2024-11-15 17:27:52,337:INFO:Skipping paper (no PDF available): The Impact of Relaxation Techniques on Third Grade Students' Self-Perceived Levels of Test Anxiety
+2024-11-15 17:27:52,337:INFO:Skipping paper (no PDF available): Combining Methods of CBT and Progressive Relaxation for Treating Primary Insomnia: A Case Study
+2024-11-15 17:27:52,337:INFO:Skipping paper (no PDF available): “Time to relax”: considerations on relaxation training for insomnia disorder
+2024-11-15 17:27:52,337:INFO:Skipping paper (no PDF available): Inhalation and Topical Application of Rose Essential Oil – A Systematic Overview of Rosa damascena Aromatherapy
+2024-11-15 17:27:52,337:INFO:Skipping paper (no PDF available): P‐4.4: Research on Key Technologies for Psychological Relief Based on Virtual Reality Exposure Therapy
+2024-11-15 17:27:53,955:INFO:Downloaded PDF for paper: PENGARUH TERAPI RELAKSASI AUDIO MUROTTAL AL-QUR'AN TERHADAP PERUBAHAN TINGKAT KECEMASAN PADA PASIEN YANG DIRAWAT DI RUANGAN ICU: LITERATUR REVIEW
+2024-11-15 17:27:53,962:INFO:Added new paper to database: PENGARUH TERAPI RELAKSASI AUDIO MUROTTAL AL-QUR'AN TERHADAP PERUBAHAN TINGKAT KECEMASAN PADA PASIEN YANG DIRAWAT DI RUANGAN ICU: LITERATUR REVIEW
+2024-11-15 17:27:53,962:INFO:Skipping paper (no PDF available): Evaluating the impact of therapy dogs on patients with cancer.
+2024-11-15 17:28:00,357:INFO:Downloaded PDF for paper: The influence of psychological interventions on surgical outcomes: a systematic review
+2024-11-15 17:28:00,364:INFO:Added new paper to database: The influence of psychological interventions on surgical outcomes: a systematic review
+2024-11-15 17:28:00,364:INFO:Skipping paper (no PDF available): Psychological treatments and therapy adaptations for psychological distress in dementia and mild cognitive impairment: a systematic review and meta-analysis
+2024-11-15 17:28:00,364:INFO:Skipping paper (no PDF available): Magnetic Resonance Imaging of the Heart Image quality , measurement accuracy and patient experience
+2024-11-15 17:28:03,661:INFO:Downloaded PDF for paper: Reaching a milestone
+2024-11-15 17:28:03,666:INFO:Added new paper to database: Reaching a milestone
+2024-11-15 17:28:03,667:INFO:Skipping paper (no PDF available): Special Issue in Honour of Lars-Göran Öst
+2024-11-15 17:28:03,667:INFO:Skipping paper (no PDF available): Relaxing to music.
+2024-11-15 17:28:03,667:INFO:Skipping paper (no PDF available): Biofeedback and Behavior
+2024-11-15 17:28:19,953:INFO:Downloaded PDF for paper: Effectiveness of relaxation techniques ‘as an active ingredient of psychological interventions’ to reduce distress, anxiety and depression in adolescents: a systematic review and meta-analysis
+2024-11-15 17:28:19,956:INFO:Added new paper to database: Effectiveness of relaxation techniques ‘as an active ingredient of psychological interventions’ to reduce distress, anxiety and depression in adolescents: a systematic review and meta-analysis
+2024-11-15 17:28:19,956:INFO:Skipping paper (no PDF available): Effectiveness of progressive muscle relaxation technique on anxiety caused by Covid‐19 in pregnant women: A randomized clinical trial
+2024-11-15 17:28:19,970:INFO:Papers stored and PDFs downloaded successfully.
+2024-11-15 17:28:19,970:INFO:Categorizing papers...
+2024-11-15 17:28:19,978:INFO:Categorized paper 'Prevalence of stress, anxiety, depression among the general population during the COVID-19 pandemic: a systematic review and meta-analysis' as Core.
+2024-11-15 17:28:19,978:INFO:Categorized paper 'The Hospital Anxiety and Depression Scale' as Core.
+2024-11-15 17:28:19,979:INFO:Categorized paper 'A brief measure for assessing generalized anxiety disorder: the GAD-7.' as Core.
+2024-11-15 17:28:19,979:INFO:Categorized paper 'Manual for the State-Trait Anxiety Inventory' as Core.
+2024-11-15 17:28:19,979:INFO:Categorized paper 'The Hospital Anxiety and Depression Scale.' as Core.
+2024-11-15 17:28:19,979:INFO:Categorized paper 'Stochastic Relaxation, Gibbs Distributions, and the Bayesian Restoration of Images' as Core.
+2024-11-15 17:28:19,979:INFO:Categorized paper 'The obligatory role of endothelial cells in the relaxation of arterial smooth muscle by acetylcholine' as Core.
+2024-11-15 17:28:19,979:INFO:Categorized paper 'The Concrete Distribution: A Continuous Relaxation of Discrete Random Variables' as Core.
+2024-11-15 17:28:19,979:INFO:Categorized paper 'Dielectric relaxation in solids' as Core.
+2024-11-15 17:28:19,979:INFO:Categorized paper 'The Temperature Dependence of Relaxation Mechanisms in Amorphous Polymers and Other Glass-Forming Liquids' as Core.
+2024-11-15 17:28:19,979:INFO:Categorized paper 'Experiencing AI in VR: A Qualitative Study on Designing a Human-Machine Collaboration Scenario' as Supplementary.
+2024-11-15 17:28:19,979:INFO:Categorized paper 'An architecture for immersive interactions with an emotional character AI in VR' as Supplementary.
+2024-11-15 17:28:19,979:INFO:Categorized paper 'Generative AI for Immersive Experiences: Integrating Text-to-Image Models in VR-Mediated Co-design Workflows' as Supplementary.
+2024-11-15 17:28:19,979:INFO:Categorized paper 'Independently Supporting Learners in VR with an AI-enabled Non-Player Character (NPC)' as Supplementary.
+2024-11-15 17:28:19,979:INFO:Categorized paper 'Process control using AI on a digital twin of an extraction column in VR' as Supplementary.
+2024-11-15 17:28:19,979:INFO:Categorized paper 'The Cooperative Revolution Reaches Clinical Psychology and Psychotherapy: An Example From Germany' as Supplementary.
+2024-11-15 17:28:19,979:INFO:Categorized paper 'Efficacy of Hypnosis on Dental Anxiety and Phobia: A Systematic Review and Meta-Analysis' as Supplementary.
+2024-11-15 17:28:19,979:INFO:Categorized paper 'PENGARUH TERAPI RELAKSASI AUDIO MUROTTAL AL-QUR'AN TERHADAP PERUBAHAN TINGKAT KECEMASAN PADA PASIEN YANG DIRAWAT DI RUANGAN ICU: LITERATUR REVIEW' as Supplementary.
+2024-11-15 17:28:19,979:INFO:Categorized paper 'The influence of psychological interventions on surgical outcomes: a systematic review' as Supplementary.
+2024-11-15 17:28:19,980:INFO:Categorized paper 'Reaching a milestone' as Supplementary.
+2024-11-15 17:28:19,980:INFO:Categorized paper 'Effectiveness of relaxation techniques ‘as an active ingredient of psychological interventions’ to reduce distress, anxiety and depression in adolescents: a systematic review and meta-analysis' as Supplementary.
+2024-11-15 17:28:19,985:INFO:Papers categorized successfully.
+2024-11-15 17:28:19,986:INFO:Adding papers to Zotero...
+2024-11-15 17:28:20,685:ERROR:Failed to add to Zotero: Prevalence of stress, anxiety, depression among the general population during the COVID-19 pandemic: a systematic review and meta-analysis. Status Code: 404
+2024-11-15 17:28:21,356:ERROR:Failed to add to Zotero: The Hospital Anxiety and Depression Scale. Status Code: 404
+2024-11-15 17:28:22,080:ERROR:Failed to add to Zotero: A brief measure for assessing generalized anxiety disorder: the GAD-7.. Status Code: 404
+2024-11-15 17:28:22,728:ERROR:Failed to add to Zotero: Manual for the State-Trait Anxiety Inventory. Status Code: 404
+2024-11-15 17:28:23,411:ERROR:Failed to add to Zotero: The Hospital Anxiety and Depression Scale.. Status Code: 404
+2024-11-15 17:28:24,117:ERROR:Failed to add to Zotero: Stochastic Relaxation, Gibbs Distributions, and the Bayesian Restoration of Images. Status Code: 404
+2024-11-15 17:28:24,834:ERROR:Failed to add to Zotero: The obligatory role of endothelial cells in the relaxation of arterial smooth muscle by acetylcholine. Status Code: 404
+2024-11-15 17:28:25,551:ERROR:Failed to add to Zotero: The Concrete Distribution: A Continuous Relaxation of Discrete Random Variables. Status Code: 404
+2024-11-15 17:28:26,268:ERROR:Failed to add to Zotero: Dielectric relaxation in solids. Status Code: 404
+2024-11-15 17:28:27,009:ERROR:Failed to add to Zotero: The Temperature Dependence of Relaxation Mechanisms in Amorphous Polymers and Other Glass-Forming Liquids. Status Code: 404
+2024-11-15 17:28:27,805:ERROR:Failed to add to Zotero: Experiencing AI in VR: A Qualitative Study on Designing a Human-Machine Collaboration Scenario. Status Code: 404
+2024-11-15 17:28:28,465:ERROR:Failed to add to Zotero: An architecture for immersive interactions with an emotional character AI in VR. Status Code: 404
+2024-11-15 17:28:29,130:ERROR:Failed to add to Zotero: Generative AI for Immersive Experiences: Integrating Text-to-Image Models in VR-Mediated Co-design Workflows. Status Code: 404
+2024-11-15 17:28:29,851:ERROR:Failed to add to Zotero: Independently Supporting Learners in VR with an AI-enabled Non-Player Character (NPC). Status Code: 404
+2024-11-15 17:28:30,509:ERROR:Failed to add to Zotero: Process control using AI on a digital twin of an extraction column in VR. Status Code: 404
+2024-11-15 17:28:31,285:ERROR:Failed to add to Zotero: The Cooperative Revolution Reaches Clinical Psychology and Psychotherapy: An Example From Germany. Status Code: 404
+2024-11-15 17:28:31,944:ERROR:Failed to add to Zotero: Efficacy of Hypnosis on Dental Anxiety and Phobia: A Systematic Review and Meta-Analysis. Status Code: 404
+2024-11-15 17:28:32,600:ERROR:Failed to add to Zotero: PENGARUH TERAPI RELAKSASI AUDIO MUROTTAL AL-QUR'AN TERHADAP PERUBAHAN TINGKAT KECEMASAN PADA PASIEN YANG DIRAWAT DI RUANGAN ICU: LITERATUR REVIEW. Status Code: 404
+2024-11-15 17:28:33,333:ERROR:Failed to add to Zotero: The influence of psychological interventions on surgical outcomes: a systematic review. Status Code: 404
+2024-11-15 17:28:34,074:ERROR:Failed to add to Zotero: Reaching a milestone. Status Code: 404
+2024-11-15 17:28:34,733:ERROR:Failed to add to Zotero: Effectiveness of relaxation techniques ‘as an active ingredient of psychological interventions’ to reduce distress, anxiety and depression in adolescents: a systematic review and meta-analysis. Status Code: 404
+2024-11-15 17:28:34,738:INFO:Integrated download process completed successfully.
+2024-11-15 17:28:34,757:INFO:127.0.0.1 - - [15/Nov/2024 17:28:34] "[32mPOST / HTTP/1.1[0m" 302 -
+2024-11-15 17:28:34,782:INFO:127.0.0.1 - - [15/Nov/2024 17:28:34] "GET / HTTP/1.1" 200 -
+2024-11-15 18:03:56,752:INFO:127.0.0.1 - - [15/Nov/2024 18:03:56] "GET /download/18 HTTP/1.1" 200 -
+2024-11-15 18:04:05,811:INFO:127.0.0.1 - - [15/Nov/2024 18:04:05] "GET /download/19 HTTP/1.1" 200 -
+2024-11-15 18:04:43,193:INFO:127.0.0.1 - - [15/Nov/2024 18:04:43] "GET /download/21 HTTP/1.1" 200 -
+2024-11-18 10:58:09,507:INFO: * Detected change in '/Users/swayansubaral/PycharmProjects/WebCrawler/src/integrated_download.py', reloading
+2024-11-18 10:58:10,033:INFO: * Restarting with stat
+2024-11-18 10:58:11,352:INFO:Database setup complete.
+2024-11-18 10:58:11,352:INFO:Session created successfully.
+2024-11-18 10:58:11,636:WARNING: * Debugger is active!
+2024-11-18 10:58:11,667:INFO: * Debugger PIN: 112-564-935
+2024-11-18 10:58:53,019:INFO:Database setup complete.
+2024-11-18 10:58:53,019:INFO:Session created successfully.
+2024-11-18 10:58:53,282:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-18 10:58:53,282:INFO:[33mPress CTRL+C to quit[0m
+2024-11-18 10:58:53,284:INFO: * Restarting with stat
+2024-11-18 10:58:53,931:INFO:Database setup complete.
+2024-11-18 10:58:53,932:INFO:Session created successfully.
+2024-11-18 10:58:54,086:WARNING: * Debugger is active!
+2024-11-18 10:58:54,108:INFO: * Debugger PIN: 112-564-935
+2024-11-18 10:59:20,931:INFO:127.0.0.1 - - [18/Nov/2024 10:59:20] "GET / HTTP/1.1" 200 -
+2024-11-18 10:59:37,444:INFO:Starting integrated download process...
+2024-11-18 10:59:37,444:INFO:Fetching papers from Semantic Scholar...
+2024-11-18 10:59:37,444:INFO:Fetching papers with query: 'ADHD papers ', limit: 20
+2024-11-18 10:59:39,106:INFO:Successfully fetched 20 papers.
+2024-11-18 10:59:39,109:INFO:Storing fetched papers...
+2024-11-18 10:59:41,767:INFO:Downloaded PDF for paper: The global prevalence of ADHD in children and adolescents: a systematic review and meta-analysis
+2024-11-18 10:59:41,776:INFO:Added new paper to database: The global prevalence of ADHD in children and adolescents: a systematic review and meta-analysis
+2024-11-18 10:59:50,813:INFO:Downloaded PDF for paper: Bibliometric Analysis of Research Themes and Trends of the Co-Occurrence of Autism and ADHD
+2024-11-18 10:59:50,827:INFO:Added new paper to database: Bibliometric Analysis of Research Themes and Trends of the Co-Occurrence of Autism and ADHD
+2024-11-18 10:59:50,938:ERROR:Failed to download PDF for paper: Functional Impairments Associated With ADHD in Adulthood and the Impact of Pharmacological Treatment - Status Code: 403
+2024-11-18 10:59:50,944:INFO:Added new paper to database: Functional Impairments Associated With ADHD in Adulthood and the Impact of Pharmacological Treatment
+2024-11-18 10:59:58,974:INFO:Downloaded PDF for paper: Emotion Recognition in Children and Adolescents with ASD and ADHD: a Systematic Review
+2024-11-18 10:59:58,978:INFO:Added new paper to database: Emotion Recognition in Children and Adolescents with ASD and ADHD: a Systematic Review
+2024-11-18 10:59:58,979:INFO:Skipping paper (no PDF available): ADHD-A Clinician's Bird's Eye View of Current Status and New Vistas!
+2024-11-18 10:59:59,686:ERROR:Failed to download PDF for paper: Cognitive Profile in Autism and ADHD: A Meta-Analysis of Performance on the WAIS-IV and WISC-V - Status Code: 403
+2024-11-18 10:59:59,691:INFO:Added new paper to database: Cognitive Profile in Autism and ADHD: A Meta-Analysis of Performance on the WAIS-IV and WISC-V
+2024-11-18 11:00:01,396:INFO:Downloaded PDF for paper: The effects of the mother’s ADHD on her parenting role
+2024-11-18 11:00:01,400:INFO:Added new paper to database: The effects of the mother’s ADHD on her parenting role
+2024-11-18 11:00:01,401:INFO:Skipping paper (no PDF available): The Effects of Crocus sativus (Saffron) on ADHD: A Systematic Review
+2024-11-18 11:00:01,401:INFO:Skipping paper (no PDF available): Analysis of Research Trends and Quality Indicators on the interventions for elementary school children with ADHD in Korea
+2024-11-18 11:00:01,401:INFO:Skipping paper (no PDF available): A Systematic Review on Attention Deficit Hyperactivity Disorder (ADHD) Detection Model
+2024-11-18 11:00:03,341:INFO:Downloaded PDF for paper: A Review of Canadian Diagnosed ADHD Prevalence and Incidence Estimates Published in the Past Decade
+2024-11-18 11:00:03,347:INFO:Added new paper to database: A Review of Canadian Diagnosed ADHD Prevalence and Incidence Estimates Published in the Past Decade
+2024-11-18 11:00:05,848:INFO:Downloaded PDF for paper: Social Cognition in Adult ADHD: A Systematic Review
+2024-11-18 11:00:05,854:INFO:Added new paper to database: Social Cognition in Adult ADHD: A Systematic Review
+2024-11-18 11:00:06,535:INFO:Downloaded PDF for paper: Factors that mediate the relationships between household socio-economic status and childhood Attention Deficit Hyperactivity Disorder (ADHD) in children and adolescents: A systematic review
+2024-11-18 11:00:06,540:INFO:Added new paper to database: Factors that mediate the relationships between household socio-economic status and childhood Attention Deficit Hyperactivity Disorder (ADHD) in children and adolescents: A systematic review
+2024-11-18 11:00:06,541:INFO:Skipping paper (no PDF available): Efficacy of Stimulants for Preschool Attention-Deficit/Hyperactivity Disorder (ADHD)
+2024-11-18 11:00:06,541:INFO:Skipping paper (no PDF available): Academic Motivation in Youth With and Without Attention-Deficit/Hyperactivity Disorder (ADHD)
+2024-11-18 11:00:07,760:INFO:Downloaded PDF for paper: Therapeutic Approaches for ADHD by Developmental Stage and Clinical Presentation
+2024-11-18 11:00:07,766:INFO:Added new paper to database: Therapeutic Approaches for ADHD by Developmental Stage and Clinical Presentation
+2024-11-18 11:00:14,192:INFO:Downloaded PDF for paper: Evaluation of Neurofeedback Learning in Patients with ADHD: A Systematic Review
+2024-11-18 11:00:14,200:INFO:Added new paper to database: Evaluation of Neurofeedback Learning in Patients with ADHD: A Systematic Review
+2024-11-18 11:00:14,201:INFO:Skipping paper (no PDF available): Complementary and Alternative Medicine Use by ADHD Patients: A Systematic Review
+2024-11-18 11:00:15,151:ERROR:Failed to download PDF for paper: Peer Relationship Difficulties among Children with Adhd: A Systematic Review - Status Code: 406
+2024-11-18 11:00:15,154:INFO:Added new paper to database: Peer Relationship Difficulties among Children with Adhd: A Systematic Review
+2024-11-18 11:00:15,252:ERROR:Failed to download PDF for paper: A review of ADHD detection studies with machine learning methods using rsfMRI data. - Status Code: 403
+2024-11-18 11:00:15,256:INFO:Added new paper to database: A review of ADHD detection studies with machine learning methods using rsfMRI data.
+2024-11-18 11:00:15,259:INFO:Papers stored and PDFs downloaded successfully.
+2024-11-18 11:00:15,259:INFO:Categorizing papers...
+2024-11-18 11:00:15,263:INFO:Categorized paper 'Prevalence of stress, anxiety, depression among the general population during the COVID-19 pandemic: a systematic review and meta-analysis' as Core.
+2024-11-18 11:00:15,263:INFO:Categorized paper 'The Hospital Anxiety and Depression Scale' as Core.
+2024-11-18 11:00:15,263:INFO:Categorized paper 'A brief measure for assessing generalized anxiety disorder: the GAD-7.' as Core.
+2024-11-18 11:00:15,263:INFO:Categorized paper 'Manual for the State-Trait Anxiety Inventory' as Core.
+2024-11-18 11:00:15,263:INFO:Categorized paper 'The Hospital Anxiety and Depression Scale.' as Core.
+2024-11-18 11:00:15,263:INFO:Categorized paper 'Stochastic Relaxation, Gibbs Distributions, and the Bayesian Restoration of Images' as Core.
+2024-11-18 11:00:15,264:INFO:Categorized paper 'The obligatory role of endothelial cells in the relaxation of arterial smooth muscle by acetylcholine' as Core.
+2024-11-18 11:00:15,264:INFO:Categorized paper 'The Concrete Distribution: A Continuous Relaxation of Discrete Random Variables' as Core.
+2024-11-18 11:00:15,264:INFO:Categorized paper 'Dielectric relaxation in solids' as Core.
+2024-11-18 11:00:15,264:INFO:Categorized paper 'The Temperature Dependence of Relaxation Mechanisms in Amorphous Polymers and Other Glass-Forming Liquids' as Core.
+2024-11-18 11:00:15,264:INFO:Categorized paper 'Experiencing AI in VR: A Qualitative Study on Designing a Human-Machine Collaboration Scenario' as Supplementary.
+2024-11-18 11:00:15,264:INFO:Categorized paper 'An architecture for immersive interactions with an emotional character AI in VR' as Supplementary.
+2024-11-18 11:00:15,265:INFO:Categorized paper 'Generative AI for Immersive Experiences: Integrating Text-to-Image Models in VR-Mediated Co-design Workflows' as Supplementary.
+2024-11-18 11:00:15,265:INFO:Categorized paper 'Independently Supporting Learners in VR with an AI-enabled Non-Player Character (NPC)' as Supplementary.
+2024-11-18 11:00:15,265:INFO:Categorized paper 'Process control using AI on a digital twin of an extraction column in VR' as Supplementary.
+2024-11-18 11:00:15,265:INFO:Categorized paper 'The Cooperative Revolution Reaches Clinical Psychology and Psychotherapy: An Example From Germany' as Supplementary.
+2024-11-18 11:00:15,266:INFO:Categorized paper 'Efficacy of Hypnosis on Dental Anxiety and Phobia: A Systematic Review and Meta-Analysis' as Supplementary.
+2024-11-18 11:00:15,266:INFO:Categorized paper 'PENGARUH TERAPI RELAKSASI AUDIO MUROTTAL AL-QUR'AN TERHADAP PERUBAHAN TINGKAT KECEMASAN PADA PASIEN YANG DIRAWAT DI RUANGAN ICU: LITERATUR REVIEW' as Supplementary.
+2024-11-18 11:00:15,266:INFO:Categorized paper 'The influence of psychological interventions on surgical outcomes: a systematic review' as Supplementary.
+2024-11-18 11:00:15,266:INFO:Categorized paper 'Reaching a milestone' as Supplementary.
+2024-11-18 11:00:15,266:INFO:Categorized paper 'Effectiveness of relaxation techniques ‘as an active ingredient of psychological interventions’ to reduce distress, anxiety and depression in adolescents: a systematic review and meta-analysis' as Supplementary.
+2024-11-18 11:00:15,266:INFO:Categorized paper 'The global prevalence of ADHD in children and adolescents: a systematic review and meta-analysis' as Core.
+2024-11-18 11:00:15,267:INFO:Categorized paper 'Bibliometric Analysis of Research Themes and Trends of the Co-Occurrence of Autism and ADHD' as Supplementary.
+2024-11-18 11:00:15,267:INFO:Categorized paper 'Functional Impairments Associated With ADHD in Adulthood and the Impact of Pharmacological Treatment' as Supplementary.
+2024-11-18 11:00:15,267:INFO:Categorized paper 'Emotion Recognition in Children and Adolescents with ASD and ADHD: a Systematic Review' as Supplementary.
+2024-11-18 11:00:15,267:INFO:Categorized paper 'Cognitive Profile in Autism and ADHD: A Meta-Analysis of Performance on the WAIS-IV and WISC-V' as Supplementary.
+2024-11-18 11:00:15,267:INFO:Categorized paper 'The effects of the mother’s ADHD on her parenting role' as Supplementary.
+2024-11-18 11:00:15,267:INFO:Categorized paper 'A Review of Canadian Diagnosed ADHD Prevalence and Incidence Estimates Published in the Past Decade' as Supplementary.
+2024-11-18 11:00:15,268:INFO:Categorized paper 'Social Cognition in Adult ADHD: A Systematic Review' as Supplementary.
+2024-11-18 11:00:15,268:INFO:Categorized paper 'Factors that mediate the relationships between household socio-economic status and childhood Attention Deficit Hyperactivity Disorder (ADHD) in children and adolescents: A systematic review' as Supplementary.
+2024-11-18 11:00:15,268:INFO:Categorized paper 'Therapeutic Approaches for ADHD by Developmental Stage and Clinical Presentation' as Supplementary.
+2024-11-18 11:00:15,268:INFO:Categorized paper 'Evaluation of Neurofeedback Learning in Patients with ADHD: A Systematic Review' as Supplementary.
+2024-11-18 11:00:15,268:INFO:Categorized paper 'Peer Relationship Difficulties among Children with Adhd: A Systematic Review' as Supplementary.
+2024-11-18 11:00:15,268:INFO:Categorized paper 'A review of ADHD detection studies with machine learning methods using rsfMRI data.' as Supplementary.
+2024-11-18 11:00:15,276:INFO:Papers categorized successfully.
+2024-11-18 11:00:15,276:INFO:Integrated download process completed successfully.
+2024-11-18 11:00:15,279:INFO:127.0.0.1 - - [18/Nov/2024 11:00:15] "[32mPOST / HTTP/1.1[0m" 302 -
+2024-11-18 11:00:15,295:INFO:127.0.0.1 - - [18/Nov/2024 11:00:15] "GET / HTTP/1.1" 200 -

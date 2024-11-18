@@ -1,0 +1,95 @@
+<!-- src/templates/index.html -->
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Wundrsight Research Web Crawler</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        h1 {
+            color: #333;
+        }
+        form {
+            margin-bottom: 20px;
+        }
+        input[type="text"] {
+            padding: 8px;
+            width: 300px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+        input[type="submit"] {
+            padding: 8px 16px;
+            border: none;
+            background-color: #28a745;
+            color: white;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        input[type="submit"]:hover {
+            background-color: #218838;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            padding: 8px 12px;
+            border: 1px solid #ccc;
+            text-align: left;
+        }
+        th {
+            background-color: #f4f4f4;
+        }
+        a {
+            text-decoration: none;
+            color: #007bff;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <h1>Wundrsight Research Web Crawler</h1>
+
+    <!-- Search Form -->
+    <form method="POST" action="/">
+        <input type="text" name="query" placeholder="Enter your search query..." required>
+        <input type="submit" value="Search">
+    </form>
+
+    <!-- Papers Table -->
+    <table>
+        <thead>
+            <tr>
+                <th>Title</th>
+                <th>Authors</th>
+                <th>Year</th>
+                <th>Category</th>
+                <th>PDF</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for paper in papers %}
+            <tr>
+                <td>{{ paper.title }}</td>
+                <td>{{ paper.authors }}</td>
+                <td>{{ paper.year }}</td>
+                <td>{{ paper.category }}</td>
+                <td>
+                    {% if paper.pdf_path %}
+                        <a href="{{ url_for('download_pdf', paper_id=paper.id) }}" target="_blank">Download PDF</a>
+                    {% else %}
+                        N/A
+                    {% endif %}
+                </td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</body>
+</html>

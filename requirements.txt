@@ -1,0 +1,11 @@
+transformers
+torch
+pyzotero
+schedule
+Flask==2.0.3
+SQLAlchemy==1.4.32
+requests==2.26.0
+python-dotenv==0.19.2
+pytest==7.1.2
+feedparser==6.0.8
+
